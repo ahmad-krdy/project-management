@@ -1,0 +1,231 @@
+*
+{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.login-container
+{
+  width: 100vw;
+  height: 100vh;
+}
+
+.login-form
+{
+    min-width: 400px;
+}
+.navbar
+{
+  background-color: #22218b !important;
+  padding: 8px 23px;
+}
+.css-lapokc
+{
+  font-weight: 600;
+}
+.active
+{
+  font-weight: 600;
+}
+.form-input-error
+{
+  border-color: red;
+}
+.form-label-error
+{
+  font-size: 13px;
+  font-weight: 500;
+  color: red;
+}
+.pdf-view
+{
+    width: max-content;
+    background: #e7e7e7;
+    border-radius: 10px;
+    padding: 5px 12px;
+    font-size: 13px;
+}
+.pdf-view a
+{
+    text-decoration: none;
+    color: #000000de;
+    font-weight: 600;
+    color: #000000de;
+  }
+
+  .field-info-con
+  {
+    font-size: 14px;
+    
+  }
+  .field-lab
+  {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .field-lab
+  {
+    line-height: 2.5;
+  }
+  .field-lab-w-40
+  {
+    display: inline-block;
+    width: 40%;
+  }
+
+  .field-lab-w-35
+  {
+    display: inline-block;
+    width: 38%;
+  }
+  .loader-container
+  {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .modal-header
+  {
+    border-bottom:none !important
+  }
+  .modal-title
+  {
+    font-weight: 600 !important;
+    font-size: 18px !important;
+  }
+  .modal-footer
+  {
+    display: flex;
+    justify-content: start;
+    padding-left: 30px;
+    margin-top: 10px;
+    border-top:none !important
+  }
+  .dropdown-item
+  {
+    font-weight: 500;
+  }
+
+  textarea{
+    resize: none;
+  }
+
+  .nav-link
+  {
+    color:#f1f1f1 !important;
+    font-size: 15.5px; 
+  }
+  .navbar-nav{
+    margin-left: 15px;
+  }
