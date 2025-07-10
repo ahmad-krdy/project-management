@@ -89,14 +89,6 @@ https://stately-biscuit-bc8790.netlify.app/
 
 ---
 
-##  Role Permissions
-
-| Role     | Can Manage Users | Can Manage Projects | Can Manage Tasks | View Assigned Tasks |
-| -------- | ---------------- | ------------------- | ---------------- | ------------------- |
-| Admin    | ✅ Yes            | ✅ Yes               | ✅ Yes            | ✅ Yes               |
-| Manager  | ❌ No             | ✅ Yes               | ✅ Yes            | ✅ Yes               |
-| Employee | ❌ No             | ❌ No                | ✅ Update Status  | ✅ Yes               |
-
 ## Deployment
 
 * **Backend:** [Render.com](https://render.com/)
